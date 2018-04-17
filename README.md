@@ -1,2 +1,3 @@
 # OTS
-OTS shared
+OTS shared folder
+Directorio en github para compartir
