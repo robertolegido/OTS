@@ -1,0 +1,5 @@
+{
+	"broker1":"127.0.0.1", 
+	"broker2":"test.mosquitto.org", 
+	"broker3":"iot.eclipse.org"
+}
